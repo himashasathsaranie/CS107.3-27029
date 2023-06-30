@@ -1,0 +1,8 @@
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\bin\Debug\Q-1NEW.exe.config
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\bin\Debug\Q-1NEW.exe
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\bin\Debug\Q-1NEW.pdb
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\obj\Debug\Q-1NEW.csproj.AssemblyReference.cache
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\obj\Debug\Q-1NEW.csproj.SuggestedBindingRedirects.cache
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\obj\Debug\Q-1NEW.csproj.CoreCompileInputs.cache
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\obj\Debug\Q-1NEW.exe
+C:\NSBM\1 st year 2 nd sem\C#\06-27\Q-1NEW\Q-1NEW\obj\Debug\Q-1NEW.pdb
