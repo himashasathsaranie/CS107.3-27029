@@ -1,0 +1,8 @@
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\bin\Debug\Q-3.exe.config
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\bin\Debug\Q-3.exe
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\bin\Debug\Q-3.pdb
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\obj\Debug\Q-3.csproj.AssemblyReference.cache
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\obj\Debug\Q-3.csproj.SuggestedBindingRedirects.cache
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\obj\Debug\Q-3.csproj.CoreCompileInputs.cache
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\obj\Debug\Q-3.exe
+C:\NSBM\1 st year 2 nd sem\C#\Lab 3\Q-3\Q-3\obj\Debug\Q-3.pdb
